@@ -22,13 +22,13 @@
    ```
 ## 其他相關檔案說明:
 ### 1. server端
-  -all_info.db: 儲存使用者帳號及相關資訊
-  -games_db.json: 儲存商城中所有遊戲的中繼資料
+  -all_info.db: 儲存使用者帳號及相關資訊  
+  -games_db.json: 儲存商城中所有遊戲的中繼資料  
   -games_repo資料夾: 存放 Server 端已上架的遊戲
 ### 2. 開發者端
-  -template.py: 遊戲開發模板
-  -ticatactoe.py: 雙人CLI遊戲範例
-  -ticatactoe_gui.py: 雙人GUI遊戲範例
+  -template.py: 遊戲開發模板  
+  -ticatactoe.py: 雙人CLI遊戲範例  
+  -ticatactoe_gui.py: 雙人GUI遊戲範例  
   -card_3p_gui.py: 多人GUI遊戲範例(3人)
 ### 3. 玩家端
   -player_downloads資料夾: 存放玩家本地下載的遊戲程式碼及相關資訊
