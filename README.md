@@ -20,6 +20,8 @@
    ```bash
    python player_client.py
    ```
+### 4. 備註:  
+   -HOST(IP)、PORT若衝突，於各程式碼的最前端有相應變數可以修改  
 ## 其他相關檔案說明:
 ### 1. server端
   -all_info.db: 儲存使用者帳號及相關資訊  
