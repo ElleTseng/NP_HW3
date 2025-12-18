@@ -3,6 +3,7 @@
 ## 啟動指南:
 ### 1. server端
    -step 1: 將common.py, server.py 和 DB.py 置於系計中的 Linux2  
+    注意: common.py 不在 server 資料夾中  
    -step 2: 執行 server.py 和 DB.py  
    ```bash
    python server.py
@@ -10,12 +11,14 @@
    ```
 ### 2. 開發者端 (上傳、更新、下架遊戲)
    -step 1: 將common.py, dev_client.py 及 開發中的遊戲 置於相同資料夾  
+    注意: common.py 不在 server 資料夾中  
    -step 2: 執行 dev_client.py  
    ```bash
    python dev_client.py
    ```
 ### 3. 玩家端 (玩遊戲、評分)
    -step 1: 將common.py 及 player_client.py 置於相同資料夾  
+    注意: common.py 不在 server 資料夾中  
    -step 2: 執行 player_client.py  
    ```bash
    python player_client.py
